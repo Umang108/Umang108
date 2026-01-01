@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/kashayp_anurag" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/kashayp_anurag?logo=twitter&style=for-the-badge" alt="https://twitter.com/kashayp_anurag" /></a> </p>
 
-- 🔭 I’m currently working on **Weather app**
-
-- 🌱 I’m currently learning react js **react js cwh**
+- 🔭 I’m currently working on **MCP**, building intelligent tools that connect LLMs with real-world systems and data 🚀*
 
 - 👨‍💻 All of my projects are available at (https://github.com/Umang108)
 
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **(https://www.linkedin.com/in/anurag108/)**
 
-- ⚡ Fun fact **Passionate about coding**
+- ⚡ Fun fact: Passionate about coding and turning ideas into intelligent solutions 💻✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
