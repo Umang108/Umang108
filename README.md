@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate GenAI Developer from India, building intelligent, end-to-end AI systems powered by LLMs, RAG, MCP, and modern full-stack technologies 🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang108" alt="umang108" /></a> </p>
 
