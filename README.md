@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning react js **react js cwh**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Umang108](https://github.com/Umang108)
+- 👨‍💻 All of my projects are available at (https://github.com/Umang108)
 
 - 💬 Ask me about **Python,c,c++,React, JavaScript**
 
-- 📫 How to reach me **[https://www.linkedin.com/in/anurag-kumar-10aa53208/](https://www.linkedin.com/in/anurag108/)**
+- 📫 How to reach me **(https://www.linkedin.com/in/anurag108/)**
 
 - ⚡ Fun fact **Passionate about coding**
 
