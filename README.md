@@ -65,49 +65,8 @@ Currently a **GenAI Intern at TCS**, building scalable AI automation systems usi
 
 ---
 
-## 🚀 Featured Projects
 
-### 🤖 Assessment Agent
-**Stack:** Python · LangChain · GPT-4o · RAG · Vector Store · OpenAI Embeddings · PostgreSQL
 
-AI-powered interview agent that generates MCQ and descriptive questions using both RAG and direct LLM generation. Features intelligent routing logic, automated answer evaluation with structured scoring, and a PostgreSQL-backed question bank with auth, scheduling, and performance reports.
-
----
-
-### 🔍 Retrieval-Augmented Generation (RAG) Q&A System
-**Stack:** Python · LangChain · FastAPI · Streamlit · Vector Database · Embeddings
-
-Scalable RAG system with hybrid search (semantic + keyword), text chunking, embedding generation, and guardrail mechanisms to reduce hallucinations. Exposes a FastAPI backend with a Streamlit UI for document-based Q&A.
-
----
-
-### 📝 Release Notes Generator — LLM-Powered Automation
-**Stack:** FastAPI · MCP (FastMCP) · LangChain · Groq LLM · JIRA API · GitHub API · React · ReportLab
-
-Full-stack LLM-powered system that parses user queries and auto-generates professional PDF release notes from JIRA and GitHub sources. Uses MCP-based tool orchestration with LangChain + Groq for intelligent routing and safety moderation.
-
----
-
-### 🔁 AI-Powered PR Review & Unit Test Automation
-**Stack:** n8n · LLMs · GitHub APIs · Python
-
-Automated PR review workflow integrating LLMs with GitHub APIs for intelligent code analysis, unit test generation, and structured feedback — reducing manual review effort significantly.
-
----
-
-### 🧬 LLM Fine-Tuning with LoRA & PEFT
-**Stack:** Python · Hugging Face Transformers · PEFT · LoRA
-
-Fine-tuned a pre-trained LLM for domain-specific tasks using LoRA, optimizing training efficiency by updating only low-rank parameters. Includes custom data preprocessing, tokenization, and training pipelines.
-
----
-
-### 🏥 Object Detection for Medical Image Analysis
-**Stack:** Python · YOLOv5 · YOLOv8 · RT-DETR · PyTorch · scikit-learn
-
-Medical image detection system comparing YOLOv5, YOLOv8, and RT-DETR architectures. RT-DETR achieved superior accuracy. Evaluated using precision, recall, and mAP metrics.
-
----
 
 ## 📊 GitHub Stats
 
