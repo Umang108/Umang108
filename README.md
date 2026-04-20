@@ -22,10 +22,9 @@ I'm an **AI Research Engineer** pursuing M.Tech in Computer Science at the **Uni
 
 Currently a **GenAI Intern at TCS**, building scalable AI automation systems using LangChain, LangGraph, MCP, and n8n.
 
-- 🔭 Currently working on **MCP (Model Context Protocol)**
 - 🤖 Focused on **Agentic AI**, **RAG pipelines**, **LLM fine-tuning**, and **multi-agent orchestration**
 - 📫 Reach me at **akumarmth5@gmail.com** or [LinkedIn](https://www.linkedin.com/in/anurag108/)
-- ⚡ GATE Qualified 2023 & 2024 | 550+ problems solved
+- ⚡ GATE Qualified 2023 & 2024 
 
 ---
 
@@ -109,12 +108,5 @@ Currently a **GenAI Intern at TCS**, building scalable AI automation systems usi
 
 ---
 
-## 🏆 Achievements
-
-- ✅ **GATE Qualified** — 2023 & 2024  
-- 💻 **550+ problems solved**  
-- 🎓 M.Tech (CS) — University of Hyderabad | CGPA: 8.11  
-
----
 
 <p align="center"><i>Open to research collaborations and AI/ML opportunities. Let's build something intelligent.</i></p>
