@@ -45,7 +45,15 @@ Currently a **GenAI Intern at TCS**, building scalable AI automation systems usi
 
 ### Agentic Systems & LLM Tooling
 
-`LangGraph` · `MCP (Model Context Protocol)` · `RAG` · `Multi-Agent Systems` · `vLLM` · `PEFT` · `LoRA` · `n8n` · `A2A`
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=graphql&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-purple?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-FF4B4B?style=flat-square)
+![PEFT](https://img.shields.io/badge/PEFT-Fine--Tuning-orange?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA-Lightweight%20Adaptation-yellow?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A-Agent%20to%20Agent-blueviolet?style=flat-square)
 
 ### Backend & APIs
 
