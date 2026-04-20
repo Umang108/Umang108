@@ -12,7 +12,6 @@
   <a href="https://leetcode.com/u/Anurag108/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  
 </p>
 
 ---
@@ -23,10 +22,10 @@ I'm an **AI Research Engineer** pursuing M.Tech in Computer Science at the **Uni
 
 Currently a **GenAI Intern at TCS**, building scalable AI automation systems using LangChain, LangGraph, MCP, and n8n.
 
-- 🔭 Currently working on **MCP (Model Context Protocol)** — building intelligent tools that connect LLMs with real-world systems
+- 🔭 Currently working on **MCP (Model Context Protocol)**
 - 🤖 Focused on **Agentic AI**, **RAG pipelines**, **LLM fine-tuning**, and **multi-agent orchestration**
 - 📫 Reach me at **akumarmth5@gmail.com** or [LinkedIn](https://www.linkedin.com/in/anurag108/)
-- ⚡ GATE Qualified 2023 & 2024 | 550+ problems on LeetCode & GeeksforGeeks
+- ⚡ GATE Qualified 2023 & 2024 | 550+ problems solved
 
 ---
 
@@ -43,6 +42,17 @@ Currently a **GenAI Intern at TCS**, building scalable AI automation systems usi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+---
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
 ### Agentic Systems & LLM Tooling
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=graphql&logoColor=white)
@@ -55,17 +65,28 @@ Currently a **GenAI Intern at TCS**, building scalable AI automation systems usi
 ![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![A2A](https://img.shields.io/badge/A2A-Agent%20to%20Agent-blueviolet?style=flat-square)
 
+---
+
 ### Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
 
 ### Cloud & DevOps
 
@@ -79,20 +100,20 @@ Currently a **GenAI Intern at TCS**, building scalable AI automation systems usi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umang108&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umang108&show_icons=true&theme=default&locale=en" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umang108&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umang108&layout=compact" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umang108" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umang108" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-- ✅ **GATE Qualified** — 2023 & 2024
-- 💻 **550+ problems** solved on LeetCode & GeeksforGeeks
-- 🎓 M.Tech (CS) — University of Hyderabad | CGPA: 8.11
+- ✅ **GATE Qualified** — 2023 & 2024  
+- 💻 **550+ problems solved**  
+- 🎓 M.Tech (CS) — University of Hyderabad | CGPA: 8.11  
 
 ---
 
