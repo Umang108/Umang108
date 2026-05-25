@@ -20,7 +20,7 @@
 
 I'm an **AI Research Engineer** pursuing M.Tech in Computer Science at the **University of Hyderabad**, specializing in **Autonomous & Agentic AI Systems**. I design and deploy production-ready intelligent systems powered by LLMs, RAG pipelines, and multi-agent architectures.
 
-Currently a **GenAI Intern at TCS**, building scalable AI automation systems using LangChain, LangGraph, MCP, and n8n.
+Completed a **Generative AI internship at Tata Consultancy Services**, developing scalable AI automation systems using LangChain, LangGraph, MCP, and n8n for workflow orchestration and intelligent agent-based applications.
 
 - 🤖 Focused on **Agentic AI**, **RAG pipelines**, **LLM fine-tuning**, and **multi-agent orchestration**
 - 📫 Reach me at **akumarmth5@gmail.com** or [LinkedIn](https://www.linkedin.com/in/anurag108/)
